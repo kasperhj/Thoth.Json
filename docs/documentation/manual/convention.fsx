@@ -12,7 +12,7 @@ open Thoth.Json
 
 (**
 
-When writting coders, the convention is to placed them under a module of the
+When writing coders, the convention is to placed them under a module of the
 same name as the type they correspond to.
 
 *)
